@@ -1,0 +1,15 @@
+/Users/overmann/RiderProjects/proga1/efimovnikita/bin/Debug/net7.0/efimovnikita
+/Users/overmann/RiderProjects/proga1/efimovnikita/bin/Debug/net7.0/efimovnikita.deps.json
+/Users/overmann/RiderProjects/proga1/efimovnikita/bin/Debug/net7.0/efimovnikita.runtimeconfig.json
+/Users/overmann/RiderProjects/proga1/efimovnikita/bin/Debug/net7.0/efimovnikita.dll
+/Users/overmann/RiderProjects/proga1/efimovnikita/bin/Debug/net7.0/efimovnikita.pdb
+/Users/overmann/RiderProjects/proga1/efimovnikita/obj/Debug/net7.0/efimovnikita.csproj.AssemblyReference.cache
+/Users/overmann/RiderProjects/proga1/efimovnikita/obj/Debug/net7.0/efimovnikita.GeneratedMSBuildEditorConfig.editorconfig
+/Users/overmann/RiderProjects/proga1/efimovnikita/obj/Debug/net7.0/efimovnikita.AssemblyInfoInputs.cache
+/Users/overmann/RiderProjects/proga1/efimovnikita/obj/Debug/net7.0/efimovnikita.AssemblyInfo.cs
+/Users/overmann/RiderProjects/proga1/efimovnikita/obj/Debug/net7.0/efimovnikita.csproj.CoreCompileInputs.cache
+/Users/overmann/RiderProjects/proga1/efimovnikita/obj/Debug/net7.0/efimovnikita.dll
+/Users/overmann/RiderProjects/proga1/efimovnikita/obj/Debug/net7.0/refint/efimovnikita.dll
+/Users/overmann/RiderProjects/proga1/efimovnikita/obj/Debug/net7.0/efimovnikita.pdb
+/Users/overmann/RiderProjects/proga1/efimovnikita/obj/Debug/net7.0/efimovnikita.genruntimeconfig.cache
+/Users/overmann/RiderProjects/proga1/efimovnikita/obj/Debug/net7.0/ref/efimovnikita.dll
