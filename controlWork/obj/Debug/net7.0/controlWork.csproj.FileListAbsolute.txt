@@ -1,0 +1,15 @@
+/Users/overmann/RiderProjects/proga1/controlWork/bin/Debug/net7.0/controlWork
+/Users/overmann/RiderProjects/proga1/controlWork/bin/Debug/net7.0/controlWork.deps.json
+/Users/overmann/RiderProjects/proga1/controlWork/bin/Debug/net7.0/controlWork.runtimeconfig.json
+/Users/overmann/RiderProjects/proga1/controlWork/bin/Debug/net7.0/controlWork.dll
+/Users/overmann/RiderProjects/proga1/controlWork/bin/Debug/net7.0/controlWork.pdb
+/Users/overmann/RiderProjects/proga1/controlWork/obj/Debug/net7.0/controlWork.csproj.AssemblyReference.cache
+/Users/overmann/RiderProjects/proga1/controlWork/obj/Debug/net7.0/controlWork.GeneratedMSBuildEditorConfig.editorconfig
+/Users/overmann/RiderProjects/proga1/controlWork/obj/Debug/net7.0/controlWork.AssemblyInfoInputs.cache
+/Users/overmann/RiderProjects/proga1/controlWork/obj/Debug/net7.0/controlWork.AssemblyInfo.cs
+/Users/overmann/RiderProjects/proga1/controlWork/obj/Debug/net7.0/controlWork.csproj.CoreCompileInputs.cache
+/Users/overmann/RiderProjects/proga1/controlWork/obj/Debug/net7.0/controlWork.dll
+/Users/overmann/RiderProjects/proga1/controlWork/obj/Debug/net7.0/refint/controlWork.dll
+/Users/overmann/RiderProjects/proga1/controlWork/obj/Debug/net7.0/controlWork.pdb
+/Users/overmann/RiderProjects/proga1/controlWork/obj/Debug/net7.0/controlWork.genruntimeconfig.cache
+/Users/overmann/RiderProjects/proga1/controlWork/obj/Debug/net7.0/ref/controlWork.dll
