@@ -1,0 +1,15 @@
+/Users/overmann/RiderProjects/proga1/ThreadsTask/bin/Debug/net7.0/ThreadsTask
+/Users/overmann/RiderProjects/proga1/ThreadsTask/bin/Debug/net7.0/ThreadsTask.deps.json
+/Users/overmann/RiderProjects/proga1/ThreadsTask/bin/Debug/net7.0/ThreadsTask.runtimeconfig.json
+/Users/overmann/RiderProjects/proga1/ThreadsTask/bin/Debug/net7.0/ThreadsTask.dll
+/Users/overmann/RiderProjects/proga1/ThreadsTask/bin/Debug/net7.0/ThreadsTask.pdb
+/Users/overmann/RiderProjects/proga1/ThreadsTask/obj/Debug/net7.0/ThreadsTask.csproj.AssemblyReference.cache
+/Users/overmann/RiderProjects/proga1/ThreadsTask/obj/Debug/net7.0/ThreadsTask.GeneratedMSBuildEditorConfig.editorconfig
+/Users/overmann/RiderProjects/proga1/ThreadsTask/obj/Debug/net7.0/ThreadsTask.AssemblyInfoInputs.cache
+/Users/overmann/RiderProjects/proga1/ThreadsTask/obj/Debug/net7.0/ThreadsTask.AssemblyInfo.cs
+/Users/overmann/RiderProjects/proga1/ThreadsTask/obj/Debug/net7.0/ThreadsTask.csproj.CoreCompileInputs.cache
+/Users/overmann/RiderProjects/proga1/ThreadsTask/obj/Debug/net7.0/ThreadsTask.dll
+/Users/overmann/RiderProjects/proga1/ThreadsTask/obj/Debug/net7.0/refint/ThreadsTask.dll
+/Users/overmann/RiderProjects/proga1/ThreadsTask/obj/Debug/net7.0/ThreadsTask.pdb
+/Users/overmann/RiderProjects/proga1/ThreadsTask/obj/Debug/net7.0/ThreadsTask.genruntimeconfig.cache
+/Users/overmann/RiderProjects/proga1/ThreadsTask/obj/Debug/net7.0/ref/ThreadsTask.dll
